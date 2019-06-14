@@ -88,8 +88,6 @@ public class GameGrid {
                 iUserRow++;
             }
 
-
-
         }
 
         for (int y = 0; y < aiGrid.length; y++) {
@@ -113,5 +111,4 @@ public class GameGrid {
             System.out.println("");
         }
     }
-
 }
